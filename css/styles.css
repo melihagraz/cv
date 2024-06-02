@@ -52,6 +52,17 @@ a:hover {
   position: relative;
   padding-top: 100px;
 }
+.notes-social {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 200px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
 
 .middle-container {
   margin: 100px 0;
